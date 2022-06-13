@@ -1,7 +1,7 @@
 # Team-Worldwide-API-C#
 Team Worldwide API C# .NET Client
 
-Generated client from swagger 3 specification.  
+Generated client using swagger 3 specification.  
 
 ## Example
 
